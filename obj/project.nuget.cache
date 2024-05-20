@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYEnv3ts1TkdF6TrmiH1k3z7yshMPsH5DgVhCL/+ZcjhFpsvHzKbY/u2EwuHtGnhiTJlVKPI/70mRfhyLvNz8A==",
+  "success": true,
+  "projectFilePath": "/home/szymon/Documents/projektBanas/projektBanas.csproj",
+  "expectedPackageFiles": [
+    "/home/szymon/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.4/microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

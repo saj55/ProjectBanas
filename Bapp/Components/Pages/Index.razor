@@ -1,0 +1,17 @@
+@page "/index"
+
+<Microsoft.AspNetCore.Components.Web.PageTitle>
+    Index
+</Microsoft.AspNetCore.Components.Web.PageTitle>
+
+<link rel="stylesheet" href="../../style.css">
+@if (x==5)
+{
+    <p>wynik</p>
+}else{
+    <button>pies</button>
+    }
+
+@code{
+    int x = 15;
+}

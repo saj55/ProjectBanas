@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = projektBanas
+build_property.RootNamespace = projektBanas
+build_property.ProjectDir = /home/szymon/Documents/projektBanas/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/szymon/Documents/projektBanas
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL0FwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1BhZ2VzL0NvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1BhZ2VzL0Vycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Pages/Glowny.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1BhZ2VzL0dsb3dueS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1BhZ2VzL1dlYXRoZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1JvdXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL19JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL0xheW91dC9NYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-eysmueugtk
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL0xheW91dC9OYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-tcou2zgx6t
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Layout/Strona.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL0xheW91dC9TdHJvbmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4mn4b82lw7
+
+[/home/szymon/Documents/projektBanas/Bapp/Components/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = QmFwcC9Db21wb25lbnRzL1BhZ2VzL0luZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-67lwwdcqws
+
+[/home/szymon/Documents/projektBanas/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-t74vnh4uvn
+
+[/home/szymon/Documents/projektBanas/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-d9k7z8g20w
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/szymon/Documents/projektBanas/bapp2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = YmFwcDIvVmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-q8jph8ffbf

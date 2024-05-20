@@ -1,0 +1,7 @@
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.GeneratedMSBuildEditorConfig.editorconfig
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.AssemblyInfoInputs.cache
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.AssemblyInfo.cs
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.csproj.CoreCompileInputs.cache
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.MvcApplicationPartsAssemblyInfo.cache
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.RazorAssemblyInfo.cache
+/home/szymon/Documents/projektBanas/obj/Debug/net8.0/projektBanas.RazorAssemblyInfo.cs
